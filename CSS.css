@@ -2,6 +2,9 @@
 header{
     background-color: rgb(163, 255, 224);
 }
+footer{
+    background-color: rgb(163, 255, 224);
+}
 
 .update{  height: 80px;
   overflow-y: auto;
